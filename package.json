@@ -1,0 +1,16 @@
+{
+  "name": "bem-ools",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "0.6 | 0.8 | 0.10"
+  },
+  "dependencies": {
+    "q": "~0.9.7",
+    "bem": "~0.7.2"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
